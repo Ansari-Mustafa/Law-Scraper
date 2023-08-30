@@ -1,0 +1,153 @@
+Accomack County
+Albemarle County
+Alexandria
+Alleghany County
+Altavista
+Amherst
+Amherst County
+Appomattox
+Ashland
+Bedford
+Bedford County
+Berryville
+Big Stone Gap
+Blacksburg
+Blackstone
+Bland County
+Bluefield
+Botetourt County
+Bristol
+Brunswick County
+Buena Vista
+Cape Charles
+Caroline County
+Charles City County
+Charlottesville
+Chase City
+Chatham
+Chesapeake
+Chesterfield County
+Chincoteague
+Christiansburg
+Clifton Forge
+Colonial Beach
+Covington
+Craig County
+Crewe
+Culpeper
+Culpeper County
+Cumberland County
+Damascus
+Danville
+Dayton
+Dinwiddie County
+Dumfries
+Emporia
+Essex County
+Fairfax
+Fairfax County
+Falls Church
+Farmville
+Fauquier County
+Floyd County
+Fluvanna County
+Franklin County
+Gate City
+Glade Spring
+Gloucester County
+Goochland County
+Gordonsville
+Greene County
+Greensville County
+Halifax County
+Hamilton
+Hampton
+Hanover County
+Harrisonburg
+Haymarket
+Henrico County
+Henry County
+Herndon
+Hopewell
+Irvington
+Isle of Wight County
+James City County
+Kenbridge
+Kilmarnock
+King and Queen County
+King George County
+King William County
+Lancaster County
+Lawrenceville
+Leesburg
+Louisa County
+Lovettsville
+Lunenburg County
+Luray
+Lynchburg
+Madison County
+Manassas
+Manassas Park
+Marion
+Martinsville
+Mecklenburg County
+Montgomery County
+Mount Jackson
+Nelson County
+New Kent County
+New Market
+Newport News
+Norfolk
+Norton
+Onancock
+Orange
+Orange County
+Petersburg
+Poquoson
+Portsmouth
+Powhatan County
+Prince Edward County
+Prince George County
+Prince William County
+Pulaski
+Purcellville
+Quantico
+Radford
+Richmond
+Roanoke
+Roanoke County
+Rockingham County
+Rocky Mount
+Salem
+Shenandoah
+Smithfield
+Smyth County
+South Boston
+South Hill
+Southampton County
+Spotsylvania County
+St. Paul
+Stafford County
+Strasburg
+Suffolk
+Surry County
+Tappahannock
+Tazewell
+Tazewell County
+Victoria
+Vienna
+Vinton
+Virginia
+Virginia Beach
+Warrenton
+Washington County
+Waynesboro
+West Point
+Westmoreland County
+Williamsburg
+Winchester
+Windsor
+Wise County
+Woodstock
+Wytheville
+York County

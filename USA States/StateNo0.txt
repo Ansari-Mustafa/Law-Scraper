@@ -1,0 +1,101 @@
+Alabaster
+Albertville
+Alexander City
+Aliceville
+Andalusia
+Anniston
+Arab
+Athens
+Atmore
+Auburn
+Bay Minette
+Bessemer
+Birmingham
+Blountsville
+Boaz
+Brewton
+Butler
+Calera
+Center Point
+Cherokee
+Citronelle
+Clanton
+Creola
+Cullman
+Daleville
+Daphne
+Decatur
+Demopolis
+Dothan
+Elba
+Elberta
+Enterprise
+Eufaula
+Fairhope
+Falkville
+Flomaton
+Florence
+Foley
+Gadsden
+Gardendale
+Geneva
+Greenville
+Gulf Shores
+Guntersville
+Hamilton
+Hartselle
+Heflin
+Homewood
+Hoover
+Hueytown
+Huntsville
+Irondale
+Jacksonville
+Jasper
+Lanett
+Leeds
+Madison
+Midfield
+Millbrook
+Mobile
+Monroeville
+Montevallo
+Montgomery
+Moody
+Moundville
+Mountain Brook
+Mt. Vernon
+Muscle Shoals
+New Hope
+Northport
+Oneonta
+Opelika
+Opp
+Orange Beach
+Oxford
+Ozark
+Pelham
+Pell City
+Phenix City
+Pleasant Grove
+Prattville
+Rainbow City
+Robertsdale
+Russellville
+Saraland
+Scottsboro
+Selma
+Semmes
+Sheffield
+Southside
+Sylacauga
+Tarrant
+Troy
+Trussville
+Tuscaloosa
+Tuscumbia
+Union Springs
+Valley
+Vestavia Hills
+Weaver
+Wetumpka

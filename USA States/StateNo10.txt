@@ -1,0 +1,378 @@
+Acworth
+Adairsville
+Adel
+Albany
+Alma
+Alpharetta
+Alto
+Americus
+Aragon
+Arcade
+Ashburn
+Athens-Clarke County
+Atlanta
+Auburn
+Augusta-Richmond County
+Austell
+Avondale Estates
+Bainbridge
+Baldwin County
+Ball Ground
+Banks County
+Barrow County
+Bartow County
+Ben Hill County
+Berkeley Lake
+Berrien County
+Blackshear
+Bleckley County
+Bloomingdale
+Blue Ridge
+Bowdon
+Brantley County
+Bremen
+Brookhaven
+Brooklet
+Brunswick
+Bryan County
+Buchanan
+Buena Vista
+Buford
+Bulloch County
+Burke County
+Butler
+Butts County
+Byron
+Cairo
+Calhoun
+Camilla
+Canton
+Carroll County
+Carrollton
+Cartersville
+Catoosa County
+Cave Spring
+Cedartown
+Centerville
+Chamblee
+Charlton County
+Chatsworth
+Chattahoochee Hills
+Cherokee County
+Clarkston
+Clay County
+Clayton
+Clayton County
+Cleveland
+Cobb County
+Cochran
+Coffee County
+Colbert
+College Park
+Colquitt
+Colquitt County
+Columbia County
+Columbus
+Commerce
+Conyers
+Cook County
+Cordele
+Cornelia
+Covington
+Coweta County
+Crawfordville
+Crisp County
+Cumming
+Cusseta-Chattahoochee County
+Dacula
+Dade County
+Dahlonega
+Dallas
+Dalton
+Darien
+Dawson
+Dawson County
+Dawsonville
+Decatur
+DeKalb County
+Demorest
+Dodge County
+Doerun
+Donalsonville
+Dooly County
+Doraville
+Dougherty County
+Douglas
+Douglas County
+Douglasville
+Dublin
+Duluth
+Dunwoody
+Early County
+East Point
+Eastman
+Eatonton
+Echols County
+Edison
+Effingham County
+Ellaville
+Ellenton
+Ellijay
+Emanuel County
+Emerson
+Fairburn
+Fairmount
+Fannin County
+Fayette County
+Fayetteville
+Fitzgerald
+Flemington
+Flowery Branch
+Floyd County
+Forest Park
+Forsyth County
+Fort Oglethorpe
+Fort Valley
+Franklin
+Fulton County
+Gainesville
+Garden City
+Gilmer County
+Glascock County
+Glennville
+Glynn County
+Gordon County
+Grady County
+Grantville
+Gray
+Grayson
+Greene County
+Greensboro
+Greenville
+Griffin
+Grovetown
+Gwinnett County
+Habersham County
+Hahira
+Hall County
+Hamilton
+Hampton
+Hapeville
+Haralson County
+Harlem
+Harris County
+Hart County
+Hartwell
+Hawkinsville
+Heard County
+Helen
+Henry County
+Hiawassee
+Hinesville
+Hiram
+Hogansville
+Holly Springs
+Houston County
+Jackson
+Jackson County
+Jasper
+Jasper County
+Jeff Davis County
+Jefferson
+Jefferson County
+Jekyll Island Authority
+Jesup
+Johns Creek
+Johnson County
+Jones County
+Jonesboro
+Kennesaw
+Kingsland
+LaFayette
+LaGrange
+Lake City
+Lake Park
+Lamar County
+Lanier County
+Laurens County
+Lavonia
+Lawrenceville
+Lee County
+Leesburg
+Leslie
+Liberty Consolidated Planning Commission
+Liberty County
+Liberty County Joint Planning Commission
+Lilburn
+Lincoln County
+Lincolnton
+Locust Grove
+Loganville
+Long County
+Lookout Mountain
+Louisville
+Lovejoy
+Lumpkin County
+Luthersville
+Lyons
+Macon County
+Macon-Bibb County
+Madison
+Madison County
+Manchester
+Marietta
+Marion County
+McDonough
+McDuffie County
+McIntosh County
+McRae-Helena
+Meriwether County
+Metter
+Midway
+Milledgeville
+Millen
+Miller County
+Milner
+Milton
+Mitchell County
+Monroe
+Monroe County
+Montezuma
+Montgomery County
+Monticello
+Morgan County
+Morrow
+Moultrie
+Mount Airy
+Mount Zion
+Mountain Park
+Murray County
+Nashville
+Nelson
+Newnan
+Newton County
+Nicholson
+Norcross
+Oakwood
+Ocilla
+Oconee County
+Oglethorpe
+Oglethorpe County
+Oxford
+Palmetto
+Paulding County
+Peach County
+Peachtree City
+Peachtree Corners
+Pearson
+Perry
+Pickens County
+Pierce County
+Pine Lake
+Polk County
+Pooler
+Port Wentworth
+Porterdale
+Powder Springs
+Pulaski County
+Putnam County
+Quitman
+Rabun County
+Reidsville
+Reynolds
+Riceboro
+Richmond Hill
+Rincon
+Ringgold
+Riverdale
+Rockdale County
+Rockmart
+Rome
+Rossville
+Roswell
+Rutledge
+Sandersville
+Sandy Springs
+Savannah
+Screven County
+Seminole County
+Senoia
+Sky Valley
+Smyrna
+Snellville
+Social Circle
+South Fulton
+Spalding County
+Springfield
+St. Marys
+Statesboro
+Statham
+Stephens County
+Stockbridge
+Stone Mountain
+Stonecrest
+Sugar Hill
+Sumter County
+Suwanee
+Sylvania
+Sylvester
+Talbot County
+Taliaferro County
+Tallapoosa
+Tallulah Falls
+Tattnall County
+Temple
+Thomas County
+Thomaston
+Thomasville
+Thomson
+Thunderbolt
+Tift County
+Tifton
+Toccoa
+Towns County
+Trenton
+Troup County
+Tucker
+Turner County
+Ty Ty
+Tybee Island
+Tyrone
+Unadilla
+Unified Government of Georgetown-Quitman County Commission
+Union City
+Union County
+Union Point
+Upson County
+Valdosta
+Vidalia
+Vienna
+Villa Rica
+Waleska
+Walker County
+Walthourville
+Walton County
+Ware County
+Warm Springs
+Warner Robins
+Warrenton
+Washington
+Washington County
+Watkinsville
+Waycross
+Wayne County
+Waynesboro
+Webster County Consolidated Government
+West Point
+White County
+Whitesburg
+Whitfield County
+Wilkes County
+Winder
+Winterville
+Woodbine
+Woodbury
+Woodstock
+Wrens
+Wrightsville
+Young Harris

@@ -1,0 +1,59 @@
+Albion
+Arlington
+Bingen
+Black Diamond
+Camas
+Carnation
+Chelan
+Cheney
+Chewelah
+Clark Regional Wastewater District
+Coal Creek Utility District
+College Place
+Cosmopolis
+Coupeville
+Darrington
+Dayton
+Duvall
+Franklin County
+Gold Bar
+Grant County
+Grays Harbor County
+Island County
+Kalama
+Kennewick
+Klickitat County
+Lynden
+Mabton
+Mason County
+McCleary
+Medical Lake
+Medina
+Mercer Island
+Millwood
+Morton
+Mossyrock
+Napavine
+Oakville
+Oroville
+Pierce Transit
+Port Angeles
+Republic
+Ridgefield
+Royal City
+Ruston
+Sammamish Plateau Water District
+Seattle
+Spokane County
+Stevenson
+Tenino
+Thurston County
+Tieton
+Union Gap
+Uniontown
+Vader
+Walla Walla County
+Warden
+White Salmon
+Whitman County
+Woodland

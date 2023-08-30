@@ -1,0 +1,296 @@
+Ada Township, (Kent Co.)
+Addison Township, (Oakland Co.)
+Adrian
+Albion
+Algonac
+Allegan
+Allen Park
+Alma
+Alpena
+Ann Arbor
+Ann Arbor Charter Township, (Washtenaw Co.)
+Armada
+Atlas Township, (Genesee Co.)
+Auburn Hills
+Aurelius Township, (Ingham Co.)
+Bad Axe
+Baldwin Township, (Iosco Co.)
+Bath Charter Township, (Clinton Co.)
+Bay City
+Bay County
+Bedford Township, (Monroe Co.)
+Belding
+Benton Charter Township, (Berrien Co.)
+Berkley
+Berlin Charter Township, (Monroe Co.)
+Berrien Springs
+Bertrand Township, (Berrien Co.)
+Birmingham
+Blissfield
+Bloomfield Charter Township, (Oakland Co.)
+Bloomfield Hills
+Boyne City
+Brandon Charter Township, (Oakland Co.)
+Breitung Chrtr Township, (Dickinson Co.)
+Brighton Charter Township, (Livingston Co.)
+Britton
+Brooklyn
+Brownstown Charter Township (Wayne Co.)
+Buchanan
+Byron Township, (Kent Co.)
+Cadillac
+Cambridge Township, (Lenawee Co.)
+Canton Charter Township, (Wayne Co.)
+Caro
+Carrollton Township, (Saginaw Co.)
+Casco Township, Allegan County
+Cass City
+Cedar Creek Township, (Muskegon Co.)
+Cedar Springs
+Center Line
+Chelsea
+China Charter Township, (St. Clair Co.)
+Clare
+Clawson
+Clinton
+Cohoctah Township, (Livingston Co.)
+Coloma
+Coloma Charter Township, (Berrien Co.)
+Commerce Charter Township, (Oakland Co.)
+Comstock Charter Township, ( Kalamazoo Co.)
+Constantine
+Coopersville
+Cottrellville Township, (St. Clair Co.)
+Dalton Township, (Muskegon Co.)
+Dearborn Heights
+Decatur
+Deckerville
+Delhi Charter Township, (Ingham Co.)
+Delta Charter Township, (Eaton Co.)
+Detroit
+DeWitt
+DeWitt CharterTownship, (Clinton Co.)
+Dexter
+Dorr Township, (Allegan Co.)
+Dundee
+East Jordan
+East Lansing
+East Tawas
+Eastpointe
+Eaton Rapids
+Ecorse
+Elk Rapids
+Elsie
+Emmett Charter Township, (Calhoun Co.)
+Escanaba
+Evart
+Farmington
+Farmington Hills
+Fenton
+Ferndale
+Flat Rock
+Flint Charter Township, (Genesee Co.)
+Flushing
+Fort Gratiot Charter Township, (St. Clair Co.)
+Fowlerville
+Fraser
+Gaines Charter Township, (Kent Co.)
+Galesburg
+Georgetown Charter Township, (Ottawa Co.)
+Gibraltar
+Gladstone
+Goodrich
+Grand Blanc Charter Township, (Genesee Co.)
+Grand Haven
+Grand Ledge
+Grand Rapids
+Grandville
+Green Oak Charter Township, (Livingston Co.)
+Greenville
+Grosse Pointe
+Grosse Pointe Shores
+Grosse Pointe Woods
+Groveland Township, (Oakland Co.)
+Gun Plain Charter Township, (Allegan Co.)
+Hamburg Township, (Livingston Co.)
+Harbor Beach
+Harper Woods
+Harrison
+Harrison Charter Township
+Hastings
+Hazel Park
+Highland Charter Township
+Highland Park
+Hillsdale
+Holland Charter Township, (Ottawa Co.)
+Holly Township, (Oakland Co.)
+Hudson
+Hudsonville
+Huntington Woods
+Independence Charter Township, (Oakland Co.)
+Ira Township, (St. Clair Co.)
+Iron Mountain
+Iron River
+Ironwood
+Jackson
+Jonesville
+Keego Harbor
+Kentwood
+Kingsford
+Laingsburg
+Lake Angelus
+Lake Odessa
+Laketown Township, (Allegan Co.)
+Lansing
+Lansing Charter Township, (Ingham Co.)
+Lathrup Village
+Lawrence
+Leoni Township, (Jackson Co.)
+Leroy Township, (Calhoun Co.)
+Leslie
+Lincoln Chrtr Township, (Berrien Co.)
+Litchfield
+Livonia
+Lowell
+Ludington
+Lyon Charter Township, (Oakland Co.)
+Mackinac Island
+Mackinaw City
+Macomb Township, (Macomb Co.)
+Madison Heights
+Madison Township
+Manistique
+Manton
+Marquette
+Marshall
+Marysville
+Mayville
+Melvindale
+Menominee
+Michigan Bankers Association
+Middleville
+Midland
+Milan
+Milford
+Milford Charter Township
+Millington
+Monroe Charter Township, (Monroe Co.)
+Montrose
+Moorland Township, (Muskegon Co.)
+Morenci
+Mount Clemens
+Mundy Charter Township, (Genesee Co.)
+Muskegon Chrtr Township, (Muskegon Co.)
+Muskegon Heights
+New Baltimore
+Newaygo
+Niles
+Niles Charter Township, (Berrien Co.)
+North Muskegon
+Northfield Township, (Washtenaw Co.)
+Northville
+Norton Shores
+Norway
+Novi
+Oak Park
+Olivet
+Orchard Lake Village
+Oscoda Charter Township
+Otsego
+Ovid
+Owosso
+Oxford
+Oxford Charter Township, (Oakland Co.)
+Parchment
+Pavilion Township
+Paw Paw
+Pennfield Township, (Calhoun Co.)
+Pere Marquette Charter Township, (Mason Co.)
+Petoskey
+Pigeon
+Pine Grove Township, (Van Buren Co.)
+Plainfield Charter Township (Kent Co.)
+Pleasant Ridge
+Plymouth
+Portage
+Porter Township, (Van Buren County)
+Portland
+Potterville
+Ray Township, (Macomb Co.)
+Reading Township
+Redford Charter Township, (Wayne Co.)
+Reese
+Richland Township, (Kalamazoo Co.)
+Richmond
+Riverview
+Rochester
+Rochester Hills
+Rockford
+Romeo
+Romulus
+Roosevelt Park
+Rose Township, (Oakland Co.)
+Royal Oak Charter Township, (Oakland Co.)
+Saginaw Charter Township, (Saginaw Co.)
+Saline
+Saranac
+Saugatuck Township, (Allegan Co.)
+Sault Ste. Marie
+Schoolcraft
+Scio Township, (Washtenaw Co.)
+Shelby Charter Township, (Macomb Co.)
+South Lyon
+South Rockwood
+Southfield
+Sparta
+Spring Lake Township, Ottawa Co
+Springfield
+Springfield Charter Township, (Oakland Co.)
+St. Charles
+St. Clair (St. Clair Co.)
+St. Clair Shores
+St. Joseph
+St. Louis
+Stockbridge
+Sturgis
+Sumpter Township, (Wayne Co.)
+Swartz Creek
+Sylvan Lake
+Sylvan Township, (Washtenaw Co.)
+Tawas City
+Taylor
+Tecumseh
+Texas Charter Township, (Kalamazoo Co.)
+Thomas Township, (Saginaw Co.)
+Thornapple Township, (Barry Co.)
+Three Rivers
+Traverse City
+Trenton
+Tyrone Township, (Kent Co.)
+Union Charter Township, (Isabella Co.)
+Utica
+Van Buren Charter Township, (Wayne Co.)
+Vassar
+Vienna Charter Township, (Genesee Co.)
+Walker
+Walled Lake
+Warren
+Washington Township, (Macomb Co.)
+Watervliet
+Wayland
+Wayne County
+West Bloomfield
+West Branch
+Westland
+White Lake Chrtr Township, (Oakland Co.)
+White Pigeon Township, (St. Joseph Co.)
+Williamston
+Windsor Charter Township, (Eaton Co.)
+Wixom
+Woodhaven
+Wyoming
+Yankee Springs Township, (Barry Co.)
+Ypsilanti
+Ypsilanti Charter Township, (Washtenaw Co.)
+Zeeland
+Zilwaukee

@@ -1,0 +1,30 @@
+'''This function is designed to save/print the names and prices of plants on Florida Nursey Mart.
+                                                                            
+plant_url = "https://www.flnurserymart.com/products/plants/"
+
+    def plant_pricing(self, plant=None):
+        all_plants = self.find_elements(by='xpath', value=f"//div[@class='catalog-item']")
+        print(len(all_plants))
+        for item in all_plants:
+            if plant in item.text:
+                header_element = item.find_element(by='xpath', value="./article/header/h2")
+                price_element = item.find_element(by='xpath', value="./article/div/div/div/a")
+                print(f'Plant = {header_element.text}')
+                print('Price =', price_element.text.replace("starting at", " ").strip())
+
+                
+plant = "Aloe"
+plant = "Apostle Iris"
+plant = "Calathea"
+plant = str.lower("Cape Honeysuckle")
+
+
+'''''' URLs for testing:
+
+test_url = ("https://library.municode.com/"
+            "fl/pinellas_county/codes/code_of_ordinances")
+
+url = "https://library.municode.com/fl/pinellas_county/"
+
+'''
+

@@ -1,0 +1,232 @@
+Agoura Hills
+Alameda
+Alameda County
+Alturas
+Amador City
+Anderson
+Apple Valley
+Arcadia
+Arroyo Grande
+Arvin
+Atwater
+Auburn
+Azusa
+Banning
+Barstow
+Beaumont
+Belmont
+Big Bear Lake
+Bishop
+Blythe
+Bradbury
+Brawley
+Brisbane
+Butte County
+Calaveras County
+Calexico
+California City
+Camarillo
+Cambria Community Services District
+Campbell
+Carpinteria
+Central Contra Costa Sanitary District
+Ceres
+Chino
+Chino Hills
+Chowchilla City
+Citrus Heights
+City of Calabasas
+Clayton
+Coachella
+Coalinga
+Colfax
+Colton
+Colusa
+Commerce
+Contra Costa County
+Corning
+Corte Madera
+Cucamonga Valley Water District
+Daly City
+Del Mar
+Del Norte County
+Del Rey Oaks
+Delano
+Diamond Bar
+Duarte
+Dunsmuir
+East Bay Regional Park District
+East Palo Alto
+Eastvale
+El Centro
+El Cerrito
+El Dorado County
+El Monte
+El Paso de Robles
+Exeter
+Farmersville
+Fillmore
+Fontana
+Fort Jones
+Fowler
+Fresno
+Fresno County
+Grand Terrace
+Grass Valley
+Gustine
+Hawaiian Gardens
+Hayward
+Hemet
+Heritage Ranch Community Services District
+Hesperia
+Hidden Hills
+Hillsborough
+Hollister
+Huron
+Imperial County
+Ione
+Irvine
+Irwindale
+Isleton
+Jurupa Valley
+Kern County
+Kings County
+Kingsburg
+LA County - BOS
+La Mesa
+La Palma
+La Quinta
+Lafayette
+Laguna Niguel
+Laguna Woods
+Lake County
+Lancaster
+Lincoln
+Lindsay
+Lodi
+Lomita
+Long Beach
+Los Altos
+Los Angeles County
+Los Gatos
+Madera County
+Mammoth Lakes
+Manhattan Beach
+Marin County
+Mariposa County
+Martinez
+Maywood
+McFarland
+Mendocino County
+Mendota
+Merced
+Milpitas
+Mission Viejo
+Modesto
+Modoc County
+Mono County
+Montclair
+Monte Sereno
+Montebello
+Monterey County
+Moraga
+Morgan Hill
+Morro Bay
+Mountain House Community Services District
+Mountain View
+Napa County
+National City
+Nevada City
+Newark
+Nipomo Community Service District Code
+Novato
+Oakland
+Oceano Community Services District
+Oceanside
+Orange County
+Orange Cove
+Orinda
+Orland
+Pacifica
+Paradise
+Parlier
+Pasadena
+Perris
+Pleasant Hill Recreation & Park District
+Plumas County
+Pomona
+Port Hueneme
+Port of Oakland
+Portola
+Portola Valley
+Rancho Palos Verdes
+Rancho Santa Margarita
+Redding
+Redwood City
+Rialto
+Richmond
+Ridgecrest
+Riverside
+Riverside County
+Rocklin
+Rohnert Park
+Rolling Hills
+Rolling Hills Estates
+Rosemead
+Salinas
+San Anselmo
+San Benito County Water District
+San Buenaventura
+San Clemente
+San Fernando
+San Francisco Bay Area Rapid Transit District (BART)
+San Joaquin County
+San Jose
+San Luis Obispo County
+San Marcos
+San Mateo County
+San Rafael
+Sanger
+Santa Ana
+Santa Barbara County
+Santa Clara County
+Saratoga
+Scotts Valley
+Shafter
+Shasta County
+Shasta Lake
+Sierra Madre
+Simi Valley
+Siskiyou County
+Soledad
+Sonoma County
+Sonora
+Suisun City
+Sutter County
+Sutter Creek
+Tehachapi
+Tehama
+Tehama County
+Templeton Community Service District
+Tiburon
+Tracy
+Trinity County
+Tustin
+Twentynine Palms
+Vallejo
+Vallejo Flood and Wastewater District
+Ventura County
+Victorville
+Villa Park
+Weed
+West Covina
+Westlake Village
+Whittier
+Williams
+Willits
+Windsor
+Woodlake
+Woodside
+Yreka
+Yuba City
+Yuba County

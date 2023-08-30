@@ -1,0 +1,327 @@
+Abilene
+Addison
+Aledo
+Alice
+Alice Texas Water Authority
+Allen
+Alpine
+Alton
+Alvarado
+Alvin
+Amarillo
+Anahuac
+Andrews
+Angleton
+Anthony
+Aransas Pass
+Arcola
+Argyle
+Athens
+Austin
+Balch Springs
+Bastrop
+Bay City
+Baytown
+Bedford
+Beeville
+Bellaire
+Bellmead
+Belton
+Benbrook
+Big Spring
+Boerne
+Bowie
+Breckenridge
+Bridge City
+Brookshire
+Brookside Village
+Brownsville
+Brownwood
+Bryan
+Bullard
+Bunker Hill Village
+Burnet
+Carrizo Springs
+Carrollton
+Carthage
+Castle Hills
+Castroville
+Cedar Hill
+Childress
+Cibolo
+Cisco
+Clear Lake Shores
+Cleveland
+Clute
+College Station
+Colleyville
+Commerce
+Conroe
+Converse
+Coppell
+Copperas Cove
+Corinth
+Corpus Christi
+Corsicana
+Cotulla
+Cresson
+Crockett
+Crowley
+Crystal City
+Daingerfield
+Dalhart
+Dayton
+Dayton Community Development Corporation
+Decatur
+Deer Park
+Del Rio
+Denison
+Denton
+Devine
+Diboll
+Dickinson
+Dripping Springs
+Dublin
+Duncanville
+Eagle Pass
+Early
+Edgewood
+Edinburg
+El Paso
+Elgin
+Elmendorf
+Ennis
+Everman
+Fair Oaks Ranch
+Falfurrias
+Farmers Branch
+Farmersville
+Fate
+Floresville
+Flower Mound
+Fort Stockton
+Fredericksburg
+Freeport
+Friendswood
+Fulton
+Gainesville
+Galena Park
+Galveston
+Gatesville
+George West
+Georgetown
+Gilmer
+Gladewater
+Glen Rose
+Graham
+Grand Prairie
+Grandview
+Grapevine
+Groves
+Hallsville
+Haltom City
+Hamilton
+Harlingen
+Hedwig Village
+Helotes
+Hemphill
+Henderson
+Henrietta
+Hewitt
+Hickory Creek
+Hill Country Village
+Hilshire Village
+Hitchcock
+Hollywood Park
+Houston
+Hunters Creek Village
+Huntsville
+Hurst
+Ingleside
+Irving
+Jacinto City
+Jacksonville
+Jasper
+Jefferson
+Jersey Village
+Justin
+Keene
+Keller
+Kemah
+Kemp
+Kenedy
+Kennedale
+Kerrville
+Killeen
+Kingsville
+Kirby
+Kyle
+La Marque
+La Porte
+La Vernia
+Lacy Lakeview
+Lago Vista
+Lake Dallas
+Lake Jackson
+Lampasas
+Laredo
+League City
+Leander
+Leon Valley
+Lewisville
+Lindale
+Linden
+Little Elm
+Live Oak
+Livingston
+Lockhart
+Lorena
+Los Fresnos
+Luling
+Lumberton
+Lytle
+Madisonville
+Manor
+Manvel
+Marble Falls
+Marfa
+Marshall
+McAllen
+McGregor
+McKinney
+Meadowlakes
+Meadows Place
+Melissa
+Meridian
+Mesquite
+Mineola
+Mineral Wells
+Mission
+Missouri City
+Mont Belvieu
+Montgomery
+Morgans Point
+Morgan's Point Resort
+Mount Vernon
+Nacogdoches
+Nassau Bay
+Natalia
+Nederland
+Needville
+New Boston
+New Braunfels
+North Richland Hills
+Oak Ridge North
+Odem
+Olmos Park
+Olney
+Orange
+Ore City
+Oyster Creek
+Palacios
+Palestine
+Palmhurst
+Pasadena
+Pearland
+Pearsall
+Pecos City
+Penitas
+Pharr
+Piney Point Village
+Plano
+Point Comfort
+Point Venture
+Ponder
+Port Aransas
+Port Arthur
+Port Lavaca
+Port Neches
+Portland
+Princeton
+Prosper
+Quintana
+Rancho Viejo
+Rhome
+Richardson
+Richmond
+Richwood
+Roanoke
+Robert Lee
+Robinson
+Rockwall
+Rollingwood
+Roma
+Roman Forest
+Rosenberg
+Round Rock
+Rowlett
+Rusk
+Saginaw
+San Angelo
+San Antonio
+San Marcos
+Santa Fe
+Schertz
+Seabrook
+Sealy
+Seguin
+Selma
+Shavano Park
+Shenandoah
+Shoreacres
+Silsbee
+Simonton
+Sinton
+Socorro
+Sonora
+South Houston
+South Padre Island
+Southlake
+Splendora
+Spring Valley Village
+Stafford
+Stephenville
+Sugar Land
+Surfside Beach
+Sweetwater
+Taft
+Taylor
+Taylor Lake Village
+Temple
+Terrell
+Texarkana
+The Colony
+Tiki Island
+Tomball
+Universal City
+Uvalde
+Van
+Van Alstyne
+Van Horn
+Venus
+Victoria
+Vidor
+Waco
+Waller
+Watauga
+Waxahachie
+Weatherford
+Webster
+Weslaco
+West Orange
+West University Place
+Westlake
+Wharton
+White Oak
+White Settlement
+Whitewright
+Wills Point
+Wimberley
+Windcrest
+Winona
+Woodcreek
+Woodsboro
+Woodville
+Woodway
+Wylie
+Yoakum

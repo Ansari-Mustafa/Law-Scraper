@@ -1,0 +1,211 @@
+Alsip
+Amboy
+Aroma Park
+Ashland
+Auburn
+Aurora
+Barrington
+Bartonville
+Beardstown
+Belvidere
+Bolingbrook
+Boone County
+Bourbonnais
+Braceville
+Bradley
+Brookfield
+Buffalo Grove
+Burbank
+Burnham
+Burr Ridge
+Byron
+Calumet City
+Carlyle
+Carpentersville
+Cary
+Casey
+Centralia
+Champaign
+Cherry Valley
+Chicago Heights
+Chicago Ridge
+Chillicothe
+Cicero
+Clarendon Hills
+Clifton
+Collinsville
+Cook County
+Cortland
+Country Club Hills
+Creston
+Crete
+Davis Junction
+Downers Grove
+DuPage County
+Earlville
+East Hazel Crest
+East Peoria
+East St. Louis
+Edwardsville
+Effingham
+Elburn
+Elgin
+Elmhurst
+Eureka
+Evanston
+Fairmont City
+Ford Heights
+Forsyth
+Fox Metro Water Reclamation District
+Franklin Park
+Freeburg
+Geneseo
+Geneva
+Georgetown
+Gilberts
+Gilman
+Glasford
+Glen Ellyn
+Glenview
+Glenwood
+Godfrey
+Granite City
+Grayslake
+Gurnee
+Hainesville
+Hanover Park
+Harwood Heights
+Havana
+Hazel Crest
+Highland
+Highland Park
+Hillcrest
+Hillside
+Hinckley
+Hoffman Estates
+Homewood
+Indian Head Park
+Jacksonville
+Joliet
+Kankakee County
+Kingston
+Lansing
+Lebanon
+Lemont
+Libertyville
+Livingston County
+Lombard
+Long Grove
+Loves Park
+Lyndon
+Lynwood
+Macomb
+Malta
+Maple Park
+Mark
+Marshall
+Mascoutah
+McCook
+McCullom Lake
+Melrose Park
+Merrionette Park
+Metamora
+Monmouth
+Monroe Center
+Montgomery
+Morris
+Morrison
+Morton
+Morton Grove
+Mount Carmel
+Mt. Zion
+Mundelein
+Naperville
+Neoga
+New Lenox
+Newark
+Niles
+Norridge
+North Aurora
+North Chicago
+North Riverside
+Northbrook
+Northfield
+Oglesby
+Olympia Fields
+Oregon
+Oswego
+Ottawa
+Palos Hills
+Palos Township
+Pana
+Park City
+Park Forest
+Park Ridge
+Pekin
+Peoria
+Peoria County
+Peru
+Phoenix
+Plainfield
+Pontiac
+Poplar Grove
+Princeville
+Prophetstown
+Rantoul
+Rochelle
+Rock Falls
+Rockdale
+Rockford
+Rolling Meadows
+Roscoe
+Roselle
+Round Lake
+Round Lake Beach
+Round Lake Heights
+Round Lake Park
+Rushville
+Salem
+Sandwich
+Sangamon County
+Sauk Village
+Savoy
+Schaumburg
+Shelbyville
+Silvis
+Skokie
+South Beloit
+South Chicago Heights
+South Holland
+Springfield
+Steger
+Sterling
+Stickney
+Stillman Valley
+Streator
+Summit
+Sun River Terrace
+Tampico
+Trenton
+University Park
+Urbana
+Vandalia
+Vernon Hills
+Villa Park
+Volo
+Walnut
+Wauconda
+Waukegan
+West Chicago
+West Frankfort
+Westchester
+Westmont
+Wheaton
+Wheeling
+Whiteside County
+Willow Springs
+Wilmette
+Wilmington
+Winnebago County
+Yorkville
+Zion
