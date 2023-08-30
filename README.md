@@ -19,8 +19,11 @@ Flexibility and Extensibility: The modular architecture of the program allows fo
 ## Use Cases:
 
 Legal Research: Legal professionals, researchers, and academics can benefit from LawScraper to gather comprehensive data for legal analysis and research endeavors.
+
 Policy Insights: Government entities and policymakers can extract and analyze regulations from specific jurisdictions, aiding in informed policy-making.
+
 Compliance Management: Businesses can monitor local regulations by regularly scraping and reviewing changes, ensuring continuous compliance.
+
 Educational Purposes: Law schools can utilize LawScraper to provide students with real-world examples of legal documents and their practical implications.
 
 ## How To Use:
@@ -30,7 +33,9 @@ Please note, this guide might not 'exactly' be applicable for the current versio
 2. After configuring the program for the specific USA State and county, you can enter your search term in the 'run.py' file as a string.
 3. Functions for downloading both docs or pdfs are defined. (Use which ever in 'run.py')
 4. Some extra/additional functions are saved in 'extras.txt' file
+
 The 'SaveStates.py' file can be run to save a list of all the States and Cities on the Municode webpage. (No need to re-run)
 
 ## Note: 
+
 While LawScraper offers a powerful means of extracting legal information from Municode, users should verify the accuracy and completeness of scraped data due to potential errors during the scraping process.
